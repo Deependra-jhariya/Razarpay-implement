@@ -32,6 +32,7 @@ const HomeScreen = () => {
     <View style={CommonStyle.statusBarContainer}>
       <View
         style={{
+          
           backgroundColor: AppColors.appColor,
           paddingVertical: 16,
           paddingHorizontal: 16,
